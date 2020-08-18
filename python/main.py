@@ -53,7 +53,7 @@ def track(video, buffer):
 
         pts.appendleft(center)
 
-        # loop ocver and draw contrail
+        # loop over and draw contrail
         for i in range(1, len(pts)):
             if pts[i-1] is None or pts[i] is None:
                 continue
