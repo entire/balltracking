@@ -1,3 +1,0 @@
-/home/kosuke/projects/balltracking/cpp/build/CMakeFiles/rebuild_cache.dir
-/home/kosuke/projects/balltracking/cpp/build/CMakeFiles/balltracking.dir
-/home/kosuke/projects/balltracking/cpp/build/CMakeFiles/edit_cache.dir
