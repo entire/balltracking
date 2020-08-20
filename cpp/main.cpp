@@ -59,7 +59,8 @@ int main() {
         
         std::cout << contours[0] << std::endl;
         if (contourSize > 0) {
-            // TODO: 
+            // TODO:
+            // make sure you solve the getting contour parts and acting on them  
         }
 
         std::cout << "Frames per seconds : " << fps << std::endl;
